@@ -55,7 +55,7 @@
 			<unit id="108" translate="yes">
 				<segment state="initial">
 					<source>Group Policy objects (GPO's) can include registry-based Administrative Template policy settings, security settings, software deployment information, scripts, folder redirection, and preferences.</source>
-					<target>Group Policy objects (GPO's) can include registry-based Administrative Template policy settings, security settings, software deployment information, scripts, folder redirection, and preferences.</target>
+					<target>Oggetti di criteri di gruppo (OCG) possono comprendere impostazioni di criteri per Modelli amministrativi basati sul registro, impostazioni di sicurezza, informazioni sulla distribuzione di software, script, reindirizzamento di cartelle e preferencze.</target>
 				</segment>
 			</unit>
 			<unit id="109" translate="yes">
